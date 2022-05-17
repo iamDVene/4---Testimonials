@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./testimonials-devene-e.png)
+![](testimonials-devene-e.png)
 
 ### Links
 
